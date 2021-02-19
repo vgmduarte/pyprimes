@@ -1,5 +1,5 @@
 # pyprimes
-A simple, recursive implementation of the sieve of Eratosthenes algorithm. 
+A simple, recursive implementation of the [https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes](sieve of Eratosthenes) algorithm. 
 
 Uses memoization for improved efficiency.
 
